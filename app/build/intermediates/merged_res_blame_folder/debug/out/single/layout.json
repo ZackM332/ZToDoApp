@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Zack\\.gradle\\daemon\\7.3.3\\com.example.todolistapptest.app-mergeDebugResources-28:\\layout\\activity_view_task.xml",
+        "source": "C:\\Users\\Zack\\.gradle\\daemon\\7.3.3\\com.example.todolistapptest.app-main-31:\\layout\\activity_view_task.xml"
+    },
+    {
+        "merged": "com.example.todolistapptest.app-mergeDebugResources-28:/layout/card.xml",
+        "source": "com.example.todolistapptest.app-main-31:/layout/card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zack\\.gradle\\daemon\\7.3.3\\com.example.todolistapptest.app-mergeDebugResources-28:\\layout\\dialog.xml",
+        "source": "C:\\Users\\Zack\\.gradle\\daemon\\7.3.3\\com.example.todolistapptest.app-main-31:\\layout\\dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zack\\.gradle\\daemon\\7.3.3\\com.example.todolistapptest.app-mergeDebugResources-28:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Zack\\.gradle\\daemon\\7.3.3\\com.example.todolistapptest.app-main-31:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zack\\.gradle\\daemon\\7.3.3\\com.example.todolistapptest.app-mergeDebugResources-28:\\layout\\activity_new_task.xml",
+        "source": "C:\\Users\\Zack\\.gradle\\daemon\\7.3.3\\com.example.todolistapptest.app-main-31:\\layout\\activity_new_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zack\\.gradle\\daemon\\7.3.3\\com.example.todolistapptest.app-mergeDebugResources-28:\\layout\\card.xml",
+        "source": "C:\\Users\\Zack\\.gradle\\daemon\\7.3.3\\com.example.todolistapptest.app-main-31:\\layout\\card.xml"
+    }
+]
